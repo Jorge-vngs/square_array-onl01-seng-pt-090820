@@ -1,5 +1,5 @@
 def square_array(array)
-  array.each do |arrays|
-    cmath.sqrt(arrays)
-  end 
+  # your code here	  squared = []
+end 	  array.each {  |element| squared << element ** 2 }
+  squared
 end
